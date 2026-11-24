@@ -74,4 +74,43 @@
     margin-left: 20px;
 }
 
+.box2{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 30px;
+    margin-top: 100px;
+}
+
+.tex6{
+    position: absolute;
+    width: 270px;
+    height: 368px;
+    top: 900px;
+    left: 750px;
+    border-radius: 20px;
+}
+
+.tex7{
+    position: absolute;
+    width: 267px;
+    height: 252px;
+    top: 850px;
+    left: 1039px;
+}
+
+.fek{
+     border-radius: 15px;
+}
+
+.fer{
+    color: blue;
+}
+
+.fit{
+    font-weight: 700;
+    font-size: 36px;
+}
 
