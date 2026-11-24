@@ -1,0 +1,77 @@
+.box{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 30px;
+    margin-top: 10px;
+    border-bottom: 3px solid rgba(128, 128, 128, 0.216);
+}
+
+.tex1{
+    display: flex;
+    gap: 40px;
+    margin-right: 300px;
+}
+
+.tex2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.252);
+}
+
+.button_header {
+    background-color: rgba(33, 124, 244, 0.299);
+    color: rgba(0, 0, 255, 0.495);
+    border: none;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.box1{
+     max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 30px;
+    background-color: rgba(212, 231, 254, 0.238);
+}
+
+.jek{
+   color: rgba(101, 100, 100, 1)
+}
+
+.jip{
+    color: rgba(10, 9, 61, 1);
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 66px;
+}
+
+.button_header1 {
+    background-color: rgba(33, 123, 244, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.button_header2 {
+    background-color: rgba(212, 231, 254, 1);
+    color: rgba(33, 123, 244, 1);
+    border: none;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+
