@@ -308,3 +308,81 @@
 .tex17{
     margin-left: 40px;
 }
+
+.box7 {
+    padding: 50px 0;
+}
+
+.tex19 {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.gg {
+    color: #2b7fff;
+    font-size: 12px;
+}
+
+.tex19 h1 {
+    color: #100f45;
+    font-size: 24px;
+    margin: 5px 0;
+}
+
+/* Се хабар дар як сатр */
+.news {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+}
+
+.tex20,
+.tex21,
+.tex22 {
+    width: 220px;
+}
+
+/* Расмҳои калон */
+.news-img {
+    width: 220px;
+    height: 210px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+/* Матни зери расм */
+.news-text {
+    position: relative;
+    padding-left: 8px;
+    margin-top: 15px;
+}
+
+/* Хати норанҷӣ */
+.line-img {
+    width: 23px;
+    position: absolute;
+    left: 8px;
+    top: 12px;
+}
+
+/* Сарлавҳаҳо */
+.news-text h4 {
+    font-size: 12px;
+    line-height: 1.5;
+    color: #34324d;
+    margin: 12px 0 15px 30px;
+}
+
+/* Continue Reading */
+.news-text p {
+    font-size: 10px;
+    color: #666;
+    margin: 15px 0 0 30px;
+    display: inline-block;
+}
+
+/* Тирча */
+.arrow-img {
+    width: 10px;
+    margin-left: 5px;
+}
