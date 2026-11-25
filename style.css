@@ -269,3 +269,42 @@
     padding: 15px 30px;
     border-radius: 15px;
 }
+
+.box6{
+     max-width: 1200px;
+    margin: auto;
+    padding: 40px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-top: 100px;
+    background-color: rgba(229, 240, 253, 1);
+}
+
+.jit{
+    width: 440.5px;
+    height: 734.9491577148438;
+
+}
+
+.gg{
+    color: rgba(33, 123, 244, 1);
+}
+
+.grg{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 45px;
+    margin-left: -20px;
+}
+
+.download img {
+    width: 180px;
+    height: auto;
+}
+
+.tex17{
+    margin-left: 40px;
+}
